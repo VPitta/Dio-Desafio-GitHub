@@ -1,4 +1,4 @@
-# ** Comandos do Git** :computer:
+#  Comandos do Git :computer:
 
 - **git init** - serve para criar um repostório local.
 - **git add** - adiciona um alteração no repostório ativo.
